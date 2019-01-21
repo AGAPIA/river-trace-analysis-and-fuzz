@@ -1,11 +1,11 @@
 # This repository contains two tools
 
-# Tool1: in Main folder, the 'smart' taint analysis tool:
+# Tool 1: in Main folder, the 'smart' taint analysis system:
   - building a generative model from a set of training examples: see main_training.py 
   - inference the model created above to obtain new tests
 
 
-# Tool2: rest of the folder
+# Tool 2: rest of the folder
   - our genetic algorithm for fuzzing which is described below:
 
 
