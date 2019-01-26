@@ -1,4 +1,6 @@
-# This repository contains two tools
+#Prerequisite: follow the installation process for: https://github.com/AGAPIA/river  
+
+# This repository contains 2 tools
 
 # Tool 1: in Main folder, the 'smart' taint analysis system:
   - building a generative model from a set of training examples: see main_training.py 
